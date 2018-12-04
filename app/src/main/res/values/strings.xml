@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">MoodTracker</string>
+    <string name="cancel">Cancel</string>
+</resources>
